@@ -1,6 +1,6 @@
 import React from "react";
-import SunIconComponent from "./Components/SunIconComponent";
-import WeatherViewer from "./Components/WeatherViewer";
+import SunIconComponent from "./Components/icon";
+import WeatherViewer from "./Components/mainView";
 
 function App() {
   return (
